@@ -1,0 +1,3 @@
+echo "FUCK"
+node .
+PAUSE
